@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Effective Date:** 9/4/2025
+**Effective Date:** 4/4/2026
 
-This Chrome extension ("the Extension") is designed to generate shortened URLs using the TinyURL API. The Extension respects your privacy and is committed to transparency regarding the handling of user data.
+This Firefox extension ("the Extension") is designed to generate shortened URLs using the TinyURL API. The Extension respects your privacy and is committed to transparency regarding the handling of user data.
 
 ---
 
